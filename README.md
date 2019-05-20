@@ -1,3 +1,11 @@
+#謝辞
+ p--q様、ありがとう御座います。
+
+#独自仕様を加えますのでフォークさせていただきました。
+ 独自仕様が完成した段階で公開させて頂きます。
+ 
+
+
 # Calendar Gadget for [Blogger.com ](https://www.blogger.com/about/?r=1-null_user)
 
 This gadget uses feeds, so it will not work with private blogs.
