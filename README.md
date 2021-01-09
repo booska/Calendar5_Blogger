@@ -24,8 +24,6 @@ This gadget has been tested against the browsers listed below.
 
 * Microsoft Edge
 
-* Safari (iOS)
-
 ## Parameters
 ```
 Calendar5_Blogger.defaults["StartYear"] = 2013; // The earliest year of the calendar. 
